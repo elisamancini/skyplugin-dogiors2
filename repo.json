@@ -1,0 +1,9 @@
+{
+  "name": "StreamingCommunity Repository",
+  "packageName": "it.dogior.skystream.repo",
+  "description": "SkyStream Repository Hub per estensioni StreamingCommunity in italiano",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors2/main/dist/plugins.json"
+  ]
+}

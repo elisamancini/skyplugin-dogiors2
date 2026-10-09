@@ -1,0 +1,47 @@
+[
+  {
+    "packageName": "it.dogior.streamingcommunity",
+    "name": "StreamingCommunity",
+    "version": 1,
+    "baseUrl": "https://streamingunity.fun",
+    "description": "Film e Serie TV da StreamingCommunity in lingua italiana e originale con supporto HD e sottotitoli.",
+    "authors": [
+      "doGior",
+      "SkyStream Community"
+    ],
+    "languages": [
+      "it",
+      "en"
+    ],
+    "categories": [
+      "Movies",
+      "TV Shows",
+      "Documentary",
+      "Anime"
+    ],
+    "iconUrl": "https://streamingunity.fun/apple-touch-icon.png?v=2",
+    "domains": [
+      {
+        "name": "streamingunity.fun (Principale)",
+        "url": "https://streamingunity.fun"
+      },
+      {
+        "name": "streamingcommunity.computer",
+        "url": "https://streamingcommunity.computer"
+      },
+      {
+        "name": "streamingunity.biz",
+        "url": "https://streamingunity.biz"
+      },
+      {
+        "name": "streamingcommunity.buzz",
+        "url": "https://streamingcommunity.buzz"
+      },
+      {
+        "name": "streamingcommunity.express",
+        "url": "https://streamingcommunity.express"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/elisamancini/skyplugin-dogiors2/main/dist/it.dogior.streamingcommunity.sky"
+  }
+]
